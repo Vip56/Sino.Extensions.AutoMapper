@@ -2,11 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>2.0.0-beta1</Version>
-    <Authors>Sino</Authors>
-    <Company />
+    <Version>2.0.0-beta2</Version>
+    <Authors>y-z-f</Authors>
+    <Company>江苏斯诺物联科技有限公司</Company>
     <PackageIconUrl>http://avatars0.githubusercontent.com/u/16951448?v=3&amp;s=70</PackageIconUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageLicenseUrl>https://github.com/Vip56/Sino.Extensions.AutoMapper/blob/dev/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Vip56/Sino.Extensions.AutoMapper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Vip56/Sino.Extensions.AutoMapper.git</RepositoryUrl>
+    <Description>automapper自动注入</Description>
   </PropertyGroup>
 
   <ItemGroup>
